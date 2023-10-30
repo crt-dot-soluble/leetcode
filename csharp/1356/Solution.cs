@@ -1,7 +1,7 @@
 ﻿// 1356. Sort Integers by The Number of 1 Bits
 // Difficulty: Easy
-// leetcode.com/crt-dot-soluble/
-// github.com/crt-dot-soluble/leetcode/csharp/1356
+// https://leetcode.com/crt-dot-soluble/
+// https://github.com/crt-dot-soluble/leetcode/tree/main/csharp/1356
 
 
 public class Solution
