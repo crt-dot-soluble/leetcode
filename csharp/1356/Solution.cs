@@ -1,4 +1,4 @@
-﻿// 1356. Sort Integers by The Number of 1 Bits
+﻿// 1356. Sort Integers by The Number of Set Bits
 // Difficulty: Easy
 // https://leetcode.com/crt-dot-soluble/
 // https://github.com/crt-dot-soluble/leetcode/tree/main/csharp/1356
